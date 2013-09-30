@@ -1,0 +1,11 @@
+name = "drOOPal"
+description = "Object-oriented approach with helper classes for nodes, users, and forms for Drupal 7."
+package = "drOOPal"
+core = 7.x
+version = VERSION
+
+files[] = droopal.module
+files[] = classes/base.class.inc
+files[] = classes/node.class.inc
+files[] = classes/user.class.inc
+files[] = classes/form.class.inc
